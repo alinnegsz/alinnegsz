@@ -9,7 +9,9 @@
   <img align="center" alt="Alinne-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alinne-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alinne-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Alinne-php" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img align="center" alt="Alinne-php" height="30" width="30" src="https://github.com/giovannalauraa/giovannalauraa/blob/16fc8d165152b7e2a78756675f5da4139f839a5c/php-img-2.png">
+     <img align="center" alt="Alinne-vue" height="30" width="30" src="https://github.com/giovannalauraa/giovannalauraa/blob/a2d7eeae84ecef2b19d14c397e3fdaa150b7867b/vue-2-removebg-preview.png">
+     <img align="center" alt="Alinne-spring-boot" height="30" width="30" src="https://github.com/giovannalauraa/giovannalauraa/blob/c3010900786f4e0fe32bd6978da1a0b823185b6c/spring-boot-removebg-preview.png">
 
   <img align="right" alt="Rafa-pic" height="200" src="https://picrew.me/shareImg/org/202206/626197_KWrboyXO.png">
 </div>
