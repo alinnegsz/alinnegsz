@@ -12,15 +12,16 @@
     <img align="center" alt="Alinne-php" height="30" width="30" src="https://github.com/giovannalauraa/giovannalauraa/blob/16fc8d165152b7e2a78756675f5da4139f839a5c/php-img-2.png">
      <img align="center" alt="Alinne-vue" height="30" width="30" src="https://github.com/giovannalauraa/giovannalauraa/blob/a2d7eeae84ecef2b19d14c397e3fdaa150b7867b/vue-2-removebg-preview.png">
      <img align="center" alt="Alinne-spring-boot" height="40" width="40" src="https://github.com/giovannalauraa/giovannalauraa/blob/c3010900786f4e0fe32bd6978da1a0b823185b6c/spring-boot-removebg-preview.png">
+  <img align="center" alt="Alinne-python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-  <img align="right" alt="Alinne-pic" height="200" src="https://picrew.me/shareImg/org/202206/626197_KWrboyXO.png">
+  <img align="right" alt="Alinne-pic" height="200" src="https://drive.google.com/file/d/1eimF0At5qXmApZr_hFPwH-EAdbCOhi6L/view?usp=sharing">
 </div>
   
   ##
  
 <div> 
   <a href="https://instagram.com/alinnegsz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:alinne.g@aluno.ifsp.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:alinnesouza2102@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alinne-gomes-de-souza-6a6089200" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
