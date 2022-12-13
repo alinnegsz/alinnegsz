@@ -14,7 +14,7 @@
      <img align="center" alt="Alinne-spring-boot" height="40" width="40" src="https://github.com/giovannalauraa/giovannalauraa/blob/c3010900786f4e0fe32bd6978da1a0b823185b6c/spring-boot-removebg-preview.png">
   <img align="center" alt="Alinne-python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-  <img align="right" alt="Alinne-pic" height="200" src="alinne-pic.png>
+  <img align="right" alt="Alinne-pic" height="200" src="alinne-pic.png">
 </div>
   
   ##
